@@ -9,7 +9,7 @@ Subdirectory file extractor is a PowerShell script that moves all the files from
 
 ## Instructions
 
-1. Download the `files-extractor.ps1`
+1. [Download](https://raw.githubusercontent.com/CarlosUlisesOchoa/Subdirectory-file-extractor-PowerShell-/main/files-extractor.ps1) the `files-extractor.ps1`
 2. Just run it, remember to specify the root path (-d) 
 
 ```CMD
