@@ -18,6 +18,15 @@ powershell.exe -File "C:\Users\Admin\Downloads\files-extractor.ps1" -d "C:\Shane
 
 Replace `C:\Users\Admin\Downloads\files-extractor.ps1` with the script path and `C:\Shane\my-root-dir` with your root path
 
+## Images
+Before:
+<br/>
+<img alt="Image 1" src="https://github.com/CarlosUlisesOchoa/Subdirectory-file-extractor-PowerShell-/blob/main/sample-images/before.jpg?raw=true" width="600" />
+
+After:
+<br/>
+<img alt="Image 2" src="https://github.com/CarlosUlisesOchoa/Subdirectory-file-extractor-PowerShell-/blob/main/sample-images/after.jpg?raw=true" width="600" />
+
 ## License
 
 This project is released under the [MIT License](LICENSE).
