@@ -7,7 +7,6 @@ Subdirectory File Extractor is a PowerShell script that moves all the files from
 ## Table of Contents
 
 - [System Requirements](#system-requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Result](#result)
 - [License](#license)
@@ -22,16 +21,16 @@ Subdirectory File Extractor is a PowerShell script that moves all the files from
 
 <br/>
 
-## Installation
+## Usage
 
 1. [Download](https://raw.githubusercontent.com/CarlosUlisesOchoa/Subdirectory-file-extractor-PowerShell-/main/files-extractor.ps1) the `files-extractor.ps1` script.
 2. Save the script to a directory on your computer.
+3. Open PowerShell and navigate to the directory where the script is saved.
+4. Run the script with the `-d` parameter and specify the directory
 
 <br/>
 
-## Usage
-
-To use the script, open PowerShell and navigate to the directory where the script is saved. Then, run the script with the `-d` parameter and specify the root directory:
+Example:
 
 <br/>
 
@@ -39,17 +38,6 @@ PowerShell:
 ```PowerShell
 .\files-extractor.ps1 -d "C:\Shane\my-root-dir"
 ```
-
-<br/>
-
-CMD:
-```CMD
-powershell.exe -File "C:\Users\Admin\Downloads\files-extractor.ps1" -d "C:\Shane\my-root-dir"
-```
-
-<br/>
-
-Replace `C:\Users\Admin\Downloads\files-extractor.ps1` with the script path and `C:\Shane\my-root-dir` with your root path
 
 <br/>
 
